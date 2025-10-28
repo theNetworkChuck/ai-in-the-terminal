@@ -3,7 +3,9 @@
 Welcome to the companion guide for NetworkChuck's "AI in the Terminal" video! This repository contains everything you need to follow along and master AI tools in the terminal.
 
 ## 📺 Watch the Video
-[Link to YouTube video - coming soon]
+[![AI in the Terminal - NetworkChuck](https://img.youtube.com/vi/MsQACpcuTkU/maxresdefault.jpg)](https://youtu.be/MsQACpcuTkU)
+
+**[▶️ Watch on YouTube: AI in the Terminal](https://youtu.be/MsQACpcuTkU)**
 
 ## 🎯 What You'll Learn
 
@@ -120,7 +122,7 @@ gemini
 ## 🙏 Credits
 
 **Created by:** NetworkChuck
-**Video Release:** [Date]
+**Video:** [AI in the Terminal](https://youtu.be/MsQACpcuTkU)
 **Guide Maintained by:** NetworkChuck community
 
 ## 📝 Contributing
