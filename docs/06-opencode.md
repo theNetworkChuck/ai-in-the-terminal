@@ -29,7 +29,7 @@ opencode is the **open-source** terminal AI tool that supports multiple provider
 ### Quick Install (Recommended)
 
 ```bash
-curl -fsSL https://opencode.sh/install.sh | sh
+curl -fsSL https://opencode.ai/install | bash
 ```
 
 **Reload your shell:**
