@@ -80,7 +80,7 @@ Want to start right now? Here's the fastest path:
 
 ```bash
 # Install Gemini CLI (FREE)
-npm install -g @google/generative-ai-cli
+npm install -g @google/gemini-cli
 
 # Create a test project
 mkdir my-ai-project
