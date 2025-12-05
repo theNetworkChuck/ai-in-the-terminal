@@ -30,7 +30,7 @@ echo $PATH | grep npm
 **Solutions:**
 ```bash
 # Option 1: Use sudo (quick fix)
-sudo npm install -g @google/generative-ai-cli
+sudo npm install -g @google/gemini-cli
 
 # Option 2: Fix npm permissions (proper fix)
 sudo chown -R $USER /usr/local/lib/node_modules
@@ -350,7 +350,7 @@ nvm install --lts
 nvm use --lts
 
 # Now install tools
-npm install -g @google/generative-ai-cli
+npm install -g @google/gemini-cli
 ```
 
 ## Still Having Issues?
@@ -375,7 +375,7 @@ rm -rf ~/.config/claude-code
 rm -rf ~/.config/opencode
 
 # 2. Reinstall from scratch
-npm install -g @google/generative-ai-cli
+npm install -g @google/gemini-cli
 npm install -g @anthropic-ai/claude-code
 curl -fsSL https://opencode.sh/install.sh | sh
 

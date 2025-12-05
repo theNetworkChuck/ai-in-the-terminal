@@ -7,10 +7,10 @@ Quick reference for all AI terminal tools covered in the video.
 ### Gemini CLI
 ```bash
 # Linux/macOS/WSL (npm)
-npm install -g @google/generative-ai-cli
+npm install -g @google/gemini-cli
 
 # With sudo (if permission error)
-sudo npm install -g @google/generative-ai-cli
+sudo npm install -g @google/gemini-cli
 
 # macOS (Homebrew)
 brew install gemini-cli
@@ -28,7 +28,7 @@ sudo npm install -g @anthropic-ai/claude-code
 ### Codex (ChatGPT CLI)
 ```bash
 # Installation command
-npm install -g @openai/codex-cli
+npm install -g @openai/codex
 
 # Or follow OpenAI documentation
 ```
@@ -405,7 +405,7 @@ gemini
 ### Permission Issues
 ```bash
 # Reinstall with sudo
-sudo npm install -g @google/generative-ai-cli
+sudo npm install -g @google/gemini-cli
 
 # Fix permissions
 sudo chown -R $USER /usr/local/lib/node_modules
@@ -561,7 +561,7 @@ rm -rf ~/.config/claude-code
 rm -rf ~/.config/opencode
 
 # Reinstall
-npm install -g @google/generative-ai-cli
+npm install -g @google/gemini-cli
 npm install -g @anthropic-ai/claude-code
 curl -fsSL https://opencode.sh/install.sh | sh
 ```

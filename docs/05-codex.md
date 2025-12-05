@@ -18,7 +18,7 @@ Codex is OpenAI's terminal tool that brings ChatGPT to the command line.
 ## Installation
 
 ```bash
-npm install -g @openai/codex-cli
+npm install -g @openai/codex
 
 # Or follow official OpenAI documentation
 ```

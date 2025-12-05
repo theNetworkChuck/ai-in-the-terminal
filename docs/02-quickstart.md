@@ -16,7 +16,7 @@ Get up and running with AI in the terminal in **5 minutes**.
 
 **Linux / macOS / WSL:**
 ```bash
-npm install -g @google/generative-ai-cli
+npm install -g @google/gemini-cli
 ```
 
 **macOS (Homebrew):**
@@ -26,7 +26,7 @@ brew install gemini-cli
 
 **Permission error?** Add `sudo`:
 ```bash
-sudo npm install -g @google/generative-ai-cli
+sudo npm install -g @google/gemini-cli
 ```
 
 ### Step 2: Create Project (10 seconds)
